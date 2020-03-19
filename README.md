@@ -1,4 +1,4 @@
-# This week's Schedule (3/31 - 4/6)
+# This week's Schedule (3/22 - 3/28)
 
 ## Lecture
 + [Basic Classification](https://docs.google.com/presentation/d/1LhrVq2Q9fnH5fU-X859qA2phK75GMFfhn9Svb7bjSO0/edit?usp=sharing)
