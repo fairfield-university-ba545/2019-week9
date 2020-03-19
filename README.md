@@ -8,6 +8,7 @@
 + Support Vector Machines with Scikit-learn
 
 You can clone these notebooks using the Github classroom's __invitation link__.
+
 Required data file(s) is in the './data/' folder.
 
 Besure to __complete__ the notebooks and __commit__ back.
