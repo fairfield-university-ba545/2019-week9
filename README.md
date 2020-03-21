@@ -5,7 +5,7 @@
 
 ## In-class Activities
 + Decision Tree Classification in Python
-+ Support Vector Machines with Scikit-learn
++ Random Forest in Python
 
 You can clone these notebooks using the Github classroom's __invitation link__.
 
@@ -14,7 +14,7 @@ Required data file(s) is in the './data/' folder.
 Besure to __complete__ the notebooks and __commit__ back.
 
 ## Student Work
-+ Continuing on Competition 2 __Data Audit Report Due on 4/8__
++ Continuing on Competition 2 __Data Audit Report Due on 3/31__
   + required files to be updated
-+ mini-project 1 Part3  __Due Today__
-+ mini-project 2 Part3 available  __Due 4/15__
++ mini-project 1 Part3  __Due 3/24__
++ mini-project 2 Part3 available  __Due 4/7__
